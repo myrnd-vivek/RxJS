@@ -41,6 +41,11 @@ Operators
 // import "./Operators/first.js"
 // import "./Operators/last.js"
 
+// Join Creation Operators
+
+// import "./Operators/combineLatest.js"
+// import "./Operators/combineLatest2.js"
+
 
 /* 
 ===============================
